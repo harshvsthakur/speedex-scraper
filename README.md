@@ -1,4 +1,4 @@
-# Sppedex Website Scraper
+# Speedex Website Scraper
 
 I needed to compare prices of hardware items with prices quoted from local vendors.
 
